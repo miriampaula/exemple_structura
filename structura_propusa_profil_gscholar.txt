@@ -1,0 +1,47 @@
+{
+    "company": "6233487192d57d9a1eeaaf43",
+	"email_domain": "",
+	"homepage" : "",
+	"affiliation": "",
+	"interests": "",
+    "ids": {
+        "scholar_id": "",
+        "other_identifiers": [
+            {
+                "name": "",
+                "value": ""
+            }
+        ]
+    },
+    "url_picture": "",
+    "researcher_metrics": {
+        "hindex": 1,
+		"hindex5y": 1,
+		"i10index"; 1,
+		"citedby": 1,
+		
+    },
+	"cites_per_year": ""
+	"coauthors" :  {
+		"affiliation": "",
+		"filled": "",
+		"name": "",
+		"scholar_id": "",
+		"source": "",
+		
+	},
+    "publications": {
+        "author_pub_id": "",
+		"bib": [
+			{
+				"citation": "",
+				"pub_year": "",
+				"title": ""
+			}
+		],
+		"citedby_url": "",
+		"cites_id": "",
+		"num_citations": "",
+		"source": ""
+	}
+}

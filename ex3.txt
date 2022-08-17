@@ -1,0 +1,903 @@
+{\'affiliation\': \'Centrul Universitar Nord Baia Mare, Universitatea Tehnica din \'
+                \'Cluj Napoca\',
+ \'citedby\': 327,
+ \'citedby5y\': 284,
+ \'cites_per_year\': {2011: 3,
+                    2012: 2,
+                    2013: 5,
+                    2014: 5,
+                    2015: 6,
+                    2016: 18,
+                    2017: 22,
+                    2018: 33,
+                    2019: 43,
+                    2020: 65,
+                    2021: 71,
+                    2022: 48},
+ \'coauthors\': [{\'affiliation\': \'Professor of Mathematics, Vasile Alecsandri \'
+                               \'National College\',
+                \'filled\': False,
+                \'name\': \'Catalin Barbu\',
+                \'scholar_id\': \'3XNS24YAAAAJ\',
+                \'source\': \'CO_AUTHORS_LIST\'},
+               {\'affiliation\': \'Associate Professor of Mathematics, "Al. I. \'
+                               \'Cuza" University, Iasi, Romania\',
+                \'filled\': False,
+                \'name\': \'Mircea Crasmareanu\',
+                \'scholar_id\': \'hQyXyQoAAAAJ\',
+                \'source\': \'CO_AUTHORS_LIST\'}],
+ \'email_domain\': \'@cunbm.utcluj.ro\',
+ \'filled\': True,
+ \'hindex\': 9,
+ \'hindex5y\': 9,
+ \'i10index\': 9,
+ \'i10index5y\': 9,
+ \'interests\': [\'geometrie\', \'differential geometry\', \'finsler geometry\'],
+ \'name\': \'Pi\xc8\x99coran Laurian\',
+ \'organization\': 16353957421441998862,
+ \'public_access\': {\'available\': 2, \'not_available\': 0},
+ \'publications\': [{\'author_pub_id\': \'HUnJHbcAAAAJ:O3NaXMp0MMsC\',
+                   \'bib\': {\'citation\': \'Journal of Geometry and Physics 114, \'
+                                       \'276-290, 2017\',
+                           \'pub_year\': \'2017\',
+                           \'title\': \'Geometry of warped product immersions of \'
+                                    \'Kenmotsu space forms and its applications \'
+                                    \'to slant immersions\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17560128955155708536\',
+                   \'cites_id\': [\'17560128955155708536\'],
+                   \'filled\': False,
+                   \'num_citations\': 37,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:f2IySw72cVMC\',
+                   \'bib\': {\'citation\': \'Math. Nachr 292, 234-251, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'Geometric classification of warped \'
+                                    \'products isometrically immersed in \'
+                                    \'Sasakian space forms\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1064597480385174340\',
+                   \'cites_id\': [\'1064597480385174340\'],
+                   \'filled\': False,
+                   \'num_citations\': 32,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:zA6iFVUQeVQC\',
+                   \'bib\': {\'citation\': \'Georgian Mathematical Journal 26 (1), \'
+                                       \'133-139, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Projective flatness of a new class of \'
+                                    \'(alpha, beta)-metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6709236588354465350\',
+                   \'cites_id\': [\'6709236588354465350\'],
+                   \'filled\': False,
+                   \'num_citations\': 23,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:e5wmG9Sq2KIC\',
+                   \'bib\': {\'citation\': \'Revista de la Real Academia de \'
+                                       \'Ciencias Exactas, F\xc3\xadsicas y Naturales. \'
+                                       \'Serie \xe2\x80\xa6, 2017\',
+                           \'pub_year\': \'2017\',
+                           \'title\': \'S-curvature for a new class \'
+                                    \'of                                           \'
+                                    \'(            \xce\xb1            ,            \'
+                                    \'\xce\xb2            ) -metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17938510102759018117\',
+                   \'cites_id\': [\'17938510102759018117\'],
+                   \'filled\': False,
+                   \'num_citations\': 22,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:a0OBvERweLwC\',
+                   \'bib\': {\'citation\': \'Mathematics 9 (24), 3156, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'On the topology of warped product \'
+                                    \'pointwise semi-slant submanifolds with \'
+                                    \'positive curvature\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7479584033383783063\',
+                   \'cites_id\': [\'7479584033383783063\'],
+                   \'filled\': False,
+                   \'num_citations\': 18,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:NaGl4SEjCO4C\',
+                   \'bib\': {\'citation\': \'Journal of Geometry and Physics 146, \'
+                                       \'103510, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Ricci curvature on warped product \'
+                                    \'submanifolds in spheres with geometric \'
+                                    \'applications\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5253919100794348370\',
+                   \'cites_id\': [\'5253919100794348370\'],
+                   \'filled\': False,
+                   \'num_citations\': 17,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:GnPB-g6toBAC\',
+                   \'bib\': {\'citation\': \'International Journal of Geometric \'
+                                       \'Methods in Modern Physics 16 (09), \'
+                                       \'1950142, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Ricci curvature on warped product \'
+                                    \'submanifolds of complex space forms and \'
+                                    \'its applications\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14472765949620210335\',
+                   \'cites_id\': [\'14472765949620210335\'],
+                   \'filled\': False,
+                   \'num_citations\': 12,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:_Qo2XoVZTnwC\',
+                   \'bib\': {\'citation\': \'arXiv preprint arXiv:1706.09159, 2017\',
+                           \'pub_year\': \'2017\',
+                           \'title\': \'Invariant submanifolds of (LCS) \'
+                                    \'n-manifolds with respect to quarter \'
+                                    \'symmetric metric connection\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4374237165672822957\',
+                   \'cites_id\': [\'4374237165672822957\'],
+                   \'filled\': False,
+                   \'num_citations\': 11,
+                   \'public_access\': True,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:J_g5lzvAfSwC\',
+                   \'bib\': {\'citation\': \'Journal of Geometry and Physics 148, \'
+                                       \'103566, 2020\',
+                           \'pub_year\': \'2020\',
+                           \'title\': \'Stable currents and homology groups in a \'
+                                    \'compact CR-warped product submanifold \'
+                                    \'with negative constant sectional \'
+                                    \'curvature\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17281319403532261268\',
+                   \'cites_id\': [\'17281319403532261268\'],
+                   \'filled\': False,
+                   \'num_citations\': 10,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:lSLTfruPkqcC\',
+                   \'bib\': {\'citation\': \'Applicable Analysis 101 (2), 702-713, \'
+                                       \'2022\',
+                           \'pub_year\': \'2022\',
+                           \'title\': \'Eigenvalue inequalities for the \'
+                                    \'p-Laplacian operator on C-totally real \'
+                                    \'submanifolds in Sasakian space forms\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11273854212005106833\',
+                   \'cites_id\': [\'11273854212005106833\'],
+                   \'filled\': False,
+                   \'num_citations\': 9,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:roLk4NBRz8UC\',
+                   \'bib\': {\'citation\': \'J. Math. Inequal 8 (1), 83-89, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'Jordan type inequalities using monotony \'
+                                    \'of functions\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10543083640274871429\',
+                   \'cites_id\': [\'10543083640274871429\'],
+                   \'filled\': False,
+                   \'num_citations\': 9,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ufrVoPGSRksC\',
+                   \'bib\': {\'citation\': \'Acta Universitatis Apulensis, 163-171, \'
+                                       \'2013\',
+                           \'pub_year\': \'2013\',
+                           \'title\': \'Graphical lectures of some king type \'
+                                    \'operators\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14583267811226480180\',
+                   \'cites_id\': [\'14583267811226480180\'],
+                   \'filled\': False,
+                   \'num_citations\': 9,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:JV2RwH3_ST0C\',
+                   \'bib\': {\'citation\': \'Applied Mathematics and Computation \'
+                                       \'340, 146-155, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'A new method for the approximation of \'
+                                    \'integrals using the generalized Bernstein \'
+                                    \'quadrature formula\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7879276535090000085\',
+                   \'cites_id\': [\'7879276535090000085\'],
+                   \'filled\': False,
+                   \'num_citations\': 7,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:4JMBOYKVnBMC\',
+                   \'bib\': {\'citation\': \'Carpathian Journal of Mathematics 33 \'
+                                       \'(2), 141-151, 2017\',
+                           \'pub_year\': \'2017\',
+                           \'title\': \'Tzitzeica equations and Tzitzeica \'
+                                    \'surfaces in separable coordinate systems \'
+                                    \'and the Ricci flow tensor field\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17136583727347911117\',
+                   \'cites_id\': [\'17136583727347911117\'],
+                   \'filled\': False,
+                   \'num_citations\': 7,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:L8Ckcad2t8MC\',
+                   \'bib\': {\'citation\': \'Carpathian Journal of Mathematics, \'
+                                       \'189-193, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Ricci solitons on CR submanifolds of \'
+                                    \'maximal CR dimension in complex \'
+                                    \'projective space\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5731314242280000010\',
+                   \'cites_id\': [\'5731314242280000010\'],
+                   \'filled\': False,
+                   \'num_citations\': 7,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:_FxGoFyzp5QC\',
+                   \'bib\': {\'citation\': \'General Mathematics 12 (4), 29-38, \'
+                                       \'2004\',
+                           \'pub_year\': \'2004\',
+                           \'title\': \'From Finsler geometry to noncommutative \'
+                                    \'geometry.\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10717493182544912743\',
+                   \'cites_id\': [\'10717493182544912743\'],
+                   \'filled\': False,
+                   \'num_citations\': 7,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:fPk4N6BV_jEC\',
+                   \'bib\': {\'citation\': \'Symmetry 13 (9), 1587, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'Null homology groups and stable currents \'
+                                    \'in warped product submanifolds of \'
+                                    \'Euclidean spaces\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=63916106353193599\',
+                   \'cites_id\': [\'63916106353193599\'],
+                   \'filled\': False,
+                   \'num_citations\': 6,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:rO6llkc54NcC\',
+                   \'bib\': {\'citation\': \'Filomat 32 (2), 643-652, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'The variational problem in Lagrange \'
+                                    \'spaces endowed with a special type of (\xce\xb1, \'
+                                    \'\xce\xb2)-metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=487284189042043471\',
+                   \'cites_id\': [\'487284189042043471\'],
+                   \'filled\': False,
+                   \'num_citations\': 6,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:8k81kl-MbHgC\',
+                   \'bib\': {\'citation\': \'Stud. Univ. Babes-Bolyai Math 56 (1), \'
+                                       \'101-107, 2011\',
+                           \'pub_year\': \'2011\',
+                           \'title\': \'Pappus\xe2\x80\x99s harmonic theorem in the Einstein \'
+                                    \'relativistic velocity model of hyperbolic \'
+                                    \'geometry\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2573833194755358162\',
+                   \'cites_id\': [\'2573833194755358162\'],
+                   \'filled\': False,
+                   \'num_citations\': 6,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:M05iB0D1s5AC\',
+                   \'bib\': {\'citation\': \'Mathematische Nachrichten 292 (2), \'
+                                       \'234-251, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Geometric classification of warped \'
+                                    \'products isometrically immersed into \'
+                                    \'Sasakian space forms\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3480613381676220687\',
+                   \'cites_id\': [\'3480613381676220687\'],
+                   \'filled\': False,
+                   \'num_citations\': 5,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:hC7cP41nSMkC\',
+                   \'bib\': {\'citation\': \'J. Math. Inequal 10 (4), 1137-1143, \'
+                                       \'2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'The geometric proof to a sharp version of \'
+                                    "Blundon\'s inequalities"},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6643343786566980537\',
+                   \'cites_id\': [\'6643343786566980537\'],
+                   \'filled\': False,
+                   \'num_citations\': 5,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:IWHjjKOFINEC\',
+                   \'bib\': {\'citation\': \'Journal of Inequalities and \'
+                                       \'Applications 2016 (1), 1-10, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Estimation of inequalities for warped \'
+                                    \'product semi-slant submanifolds of \'
+                                    \'Kenmotsu space forms\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14410396714141224403\',
+                   \'cites_id\': [\'14410396714141224403\'],
+                   \'filled\': False,
+                   \'num_citations\': 5,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:Tyk-4Ss8FVUC\',
+                   \'bib\': {\'citation\': \'Creative Math. and Inf 17, 493-498, \'
+                                       \'2008\',
+                           \'pub_year\': \'2008\',
+                           \'title\': \'Noncommutative differential direct Lie \'
+                                    \'derivative and the algebra of special \'
+                                    \'Euclidean group SE (2)\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2736836964578588966\',
+                   \'cites_id\': [\'2736836964578588966\'],
+                   \'filled\': False,
+                   \'num_citations\': 5,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:2P1L_qKh6hAC\',
+                   \'bib\': {\'citation\': \'Journal of Geometry and Physics 158, \'
+                                       \'103859, 2020\',
+                           \'pub_year\': \'2020\',
+                           \'title\': \'Null homology in warped product \'
+                                    \'Lagrangian submanifolds of the nearly \'
+                                    \'Kaehler S6 and its applications\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9499902902819416261\',
+                   \'cites_id\': [\'9499902902819416261\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ZeXyd9-uunAC\',
+                   \'bib\': {\'citation\': \'Journal of inequalities and \'
+                                       \'applications 2016 (1), 1-10, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Approximation of signals (functions) \'
+                                    \'belonging to certain Lipschitz classes by \'
+                                    \'almost Riesz means of its Fourier series\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3692487586844556037\',
+                   \'cites_id\': [\'3692487586844556037\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:dhFuZR0502QC\',
+                   \'bib\': {\'citation\': \'Advances in Applied Clifford Algebras \'
+                                       \'26 (4), 1127-1136, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Weak para-CR structures on vertical \'
+                                    \'bundles\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1781580213175181840\',
+                   \'cites_id\': [\'1781580213175181840\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:mVmsd5A6BfQC\',
+                   \'bib\': {\'citation\': \'Turkish Journal of Mathematics 39 (4), \'
+                                       \'467-476, 2015\',
+                           \'pub_year\': \'2015\',
+                           \'title\': \'Invariant distributions and holomorphic \'
+                                    \'vector fields in paracontact geometry\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9700323957490291424\',
+                   \'cites_id\': [\'9700323957490291424\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:kNdYIx-mwKoC\',
+                   \'bib\': {\'citation\': \'Acta Mathematica Sinica, English \'
+                                       \'Series 30 (11), 1877-1884, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'Para-CR structures of codimension 2 on \'
+                                    \'tangent bundles in Riemann-Finsler \'
+                                    \'geometry\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7609906595701221019\',
+                   \'cites_id\': [\'7609906595701221019\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:IjCSPb-OGe4C\',
+                   \'bib\': {\'citation\': \'Acta Univ. Sapientiae Math 4, 20-25, \'
+                                       \'2012\',
+                           \'pub_year\': \'2012\',
+                           \'title\': \'The orthopole theorem in the Poincar\xc3\xa9 \'
+                                    \'disc model of hyperbolic geometry\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16274976096240896156\',
+                   \'cites_id\': [\'16274976096240896156\'],
+                   \'filled\': False,
+                   \'num_citations\': 4,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:pqnbT2bcN3wC\',
+                   \'bib\': {\'citation\': \'Symmetry 13 (2), 222, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'Geometry of k-Yamabe Solitons on \'
+                                    \'Euclidean Spaces and Its Applications to \'
+                                    \'Concurrent Vector Fields\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13432813880257549393\',
+                   \'cites_id\': [\'13432813880257549393\'],
+                   \'filled\': False,
+                   \'num_citations\': 3,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:bFI3QPDXJZMC\',
+                   \'bib\': {\'citation\': \'Georgian Mathematical Journal 26 (1), \'
+                                       \'133-139, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Projective flatness of a new class of (\xce\xb1, \'
+                                    \'\xce\xb2)-metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15682883721673770268\',
+                   \'cites_id\': [\'15682883721673770268\'],
+                   \'filled\': False,
+                   \'num_citations\': 3,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:UeHWp8X0CEIC\',
+                   \'bib\': {\'citation\': \'Unpublished manuscript, 0\',
+                           \'title\': \'On Panaitopol and Jordan type \'
+                                    \'inequalities\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1304377906257483594\',
+                   \'cites_id\': [\'1304377906257483594\'],
+                   \'filled\': False,
+                   \'num_citations\': 3,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:hFOr9nPyWt4C\',
+                   \'bib\': {\'citation\': \'Periodica Mathematica Hungarica 73 \'
+                                       \'(2), 240-250, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'CR-structures of codimension 2 on tangent \'
+                                    \'bundles in Riemann\xe2\x80\x93Finsler geometry\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13263343758868532337\',
+                   \'cites_id\': [\'13263343758868532337\'],
+                   \'filled\': False,
+                   \'num_citations\': 2,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:-f6ydRqryjwC\',
+                   \'bib\': {\'citation\': \'Mathematica Aeterna 6 (6), 885-894, \'
+                                       \'2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Projective change for a new class of (\xce\xb1, \'
+                                    \'\xce\xb2)-metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16331601741034307650\',
+                   \'cites_id\': [\'16331601741034307650\'],
+                   \'filled\': False,
+                   \'num_citations\': 2,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:Y0pCki6q_DkC\',
+                   \'bib\': {\'citation\': \'Carpathian Journal of Mathematics, \'
+                                       \'239-244, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'Remarks on a new metric in the unity disc \'
+                                    \'of the complex plane\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14314093236538355458\',
+                   \'cites_id\': [\'14314093236538355458\'],
+                   \'filled\': False,
+                   \'num_citations\': 2,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:0EnyYjriUFMC\',
+                   \'bib\': {\'citation\': \'Differential Geometry-Dynamical \'
+                                       \'Systems 15, 71-78, 2013\',
+                           \'pub_year\': \'2013\',
+                           \'title\': \'A new hyperbolic metric\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=18030872983609307391\',
+                   \'cites_id\': [\'18030872983609307391\'],
+                   \'filled\': False,
+                   \'num_citations\': 2,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ULOm3_A8WrAC\',
+                   \'bib\': {\'citation\': \'Int. J. Pure Appl. Sci. Technol 1 (1), \'
+                                       \'7-10, 2010\',
+                           \'pub_year\': \'2010\',
+                           \'title\': \'New inequalities on hyperbolic triangles\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5267821316874182323\',
+                   \'cites_id\': [\'5267821316874182323\'],
+                   \'filled\': False,
+                   \'num_citations\': 2,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:D03iK_w7-QYC\',
+                   \'bib\': {\'citation\': \'Symmetry 13 (12), 2362, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'Characterization of almost Yamabe \'
+                                    \'solitons and gradient almost Yamabe \'
+                                    \'solitons with conformal vector fields\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=724693338430319572\',
+                   \'cites_id\': [\'724693338430319572\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:YFjsv_pBGBYC\',
+                   \'bib\': {\'citation\': \'Journal of Mathematical Inequalities \'
+                                       \'13 (2), 415-422, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'THE GEOMETRY OF BLUNDON\xe2\x80\x99S CONFIGURATION\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11089643788600417625\',
+                   \'cites_id\': [\'11089643788600417625\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:r0BpntZqJG4C\',
+                   \'bib\': {\'citation\': \'International Journal of Geometric \'
+                                       \'Methods in Modern Physics 15 (05), \'
+                                       \'1850082, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'Wick\xe2\x80\x93Tzitzeica solitons and their \'
+                                    \'Monge\xe2\x80\x93Amp\xc3\xa9r equation\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1178861830155269526\',
+                   \'cites_id\': [\'1178861830155269526\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'public_access\': True,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:BqipwSGYUEgC\',
+                   \'bib\': {\'citation\': \'Filomat 32 (2), 643-652, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'The variational problem in lagrange \'
+                                    \'spaces endowed with a special type of (\xce\xb1, \'
+                                    \'\xce\xb2)-metrics\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5115929976009391875\',
+                   \'cites_id\': [\'5115929976009391875\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:M3NEmzRMIkIC\',
+                   \'bib\': {\'citation\': \'World Scientific News 108, 18-40, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'Motion of charged particles in Minkowski \'
+                                    \'spacetime\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7693638261645674687\',
+                   \'cites_id\': [\'7693638261645674687\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ldfaerwXgEUC\',
+                   \'bib\': {\'citation\': \'International Conference on \'
+                                       \'Differential Geometry, Algebra and \'
+                                       \'Analysis, 77-90, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'Certain Classes of Warped Product \'
+                                    \'Submanifolds of Sasakian Manifolds\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1699310287770638540\',
+                   \'cites_id\': [\'1699310287770638540\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:M3ejUd6NZC8C\',
+                   \'bib\': {\'citation\': \'Applied Mathematics & Information \'
+                                       \'Sciences 7 (2), 483, 2013\',
+                           \'pub_year\': \'2013\',
+                           \'title\': \'B\xc3\xa9zier type surfaces\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8306478661899081029\',
+                   \'cites_id\': [\'8306478661899081029\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:9ZlFYXVOiuMC\',
+                   \'bib\': {\'citation\': \'Studia Univ.\xe2\x80\x9d Babes-Bolyai\xe2\x80\x9d, \'
+                                       \'Mathematica, LIII, 79-83, 2008\',
+                           \'pub_year\': \'2008\',
+                           \'title\': \'The Dirac equation and the noncommutative \'
+                                    \'harmonic oscilator\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11956155657844222857\',
+                   \'cites_id\': [\'11956155657844222857\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:5nxA0vEk-isC\',
+                   \'bib\': {\'citation\': \'Acta Universitatis Apulensis. \'
+                                       \'Mathematics-Informatics 13, 71-74, \'
+                                       \'2007\',
+                           \'pub_year\': \'2007\',
+                           \'title\': \'The noncommutative Dirac equation for \'
+                                    \'some wave functions.\'},
+                   \'citedby_url\': \'https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1086060831416529468\',
+                   \'cites_id\': [\'1086060831416529468\'],
+                   \'filled\': False,
+                   \'num_citations\': 1,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:_xSYboBqXhAC\',
+                   \'bib\': {\'citation\': \'JOURNAL OF MATHEMATICAL INEQUALITIES \'
+                                       \'16 (2), 687-706, 2022\',
+                           \'pub_year\': \'2022\',
+                           \'title\': \'VECTORIAL AND METRICAL RELATIONS IN \'
+                                    \'TETRAHEDRON\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:pyW8ca7W8N0C\',
+                   \'bib\': {\'citation\': \'Mathematics 10 (2), 244, 2022\',
+                           \'pub_year\': \'2022\',
+                           \'title\': \'Characterizing Base in Warped Product \'
+                                    \'Submanifolds of Complex Projective Spaces \'
+                                    \'by Differential Equations\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:3s1wT3WcHBgC\',
+                   \'bib\': {\'citation\': \'Axioms 10 (2), 69, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'The \xcf\x87-Hessian Quotient for Riemannian \'
+                                    \'Metrics\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ZHo1McVdvXMC\',
+                   \'bib\': {\'citation\': \'AUT Journal of Mathematics and \'
+                                       \'Computing 2 (1), 73-80, 2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'On the reversible geodesics of a Finsler \'
+                                    \'space endowed with a special deformed (\xce\xb1, \'
+                                    \'\xce\xb2)-metric\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:SeFeTyx0c_EC\',
+                   \'bib\': {\'citation\': \'s Note: MDPI stays neu-tral with \'
+                                       \'regard to jurisdictional claims in \xe2\x80\xa6, \'
+                                       \'2021\',
+                           \'pub_year\': \'2021\',
+                           \'title\': \'Geometry of k-Yamabe Solitons on \'
+                                    \'Euclidean Spaces and Its Applications to \'
+                                    \'Concurrent Vector Fields. Symmetry 2021, \'
+                                    \'13, 222\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:g5m5HwL7SMYC\',
+                   \'bib\': {\'citation\': \'Facta Universitatis. Series: \'
+                                       \'Mathematics and Informatics, 727-740, \'
+                                       \'2020\',
+                           \'pub_year\': \'2020\',
+                           \'title\': \'LEFT INVARIANT (\xce\xb1, \xce\xb2)-METRICS ON \'
+                                    \'4-DIMENSIONAL LIE GROUPS\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:HoB7MX3m0LUC\',
+                   \'bib\': {\'citation\': \'s Note: MDPI stays neu-tral with \'
+                                       \'regard to jurisdictional claims in \xe2\x80\xa6, \'
+                                       \'2020\',
+                           \'pub_year\': \'2020\',
+                           \'title\': \'Geometry of k-Yamabe Solitons on \'
+                                    \'Euclidean Spaces and Its Applications to \'
+                                    \'Concurrent Vector Fields. Symmetry 2021, \'
+                                    \'1, 0\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:70eg2SAEIzsC\',
+                   \'bib\': {\'citation\': \'Balkan Journal of Geometry and Its \'
+                                       \'Applications 25 (1), 104-116, 2020\',
+                           \'pub_year\': \'2020\',
+                           \'title\': \'On the conformal change of a special \'
+                                    \'class of (\xce\xb1, \xce\xb2)-metrics\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:ns9cj8rnVeAC\',
+                   \'bib\': {\'citation\': \'Balkan Journal of Geometry and Its \'
+                                       \'Applications 24 (2), 18-24, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Projectively flat Randers spaces with \'
+                                    \'pseudo-Riemannian metric\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:hMod-77fHWUC\',
+                   \'bib\': {\'citation\': \'Investigaci\xc3\xb3n Operacional 40 (1), \'
+                                       \'74-80, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'A NEW STEFFENSEN-HOMEIER ITERATIVE METOD \'
+                                    \'FOR SOLVING NONLINEAR EQUATIONS\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:RHpTSmoSYBkC\',
+                   \'bib\': {\'citation\': \'Georgian Mathematical Journal 26 (1), \'
+                                       \'2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'Projective flatness of a new class of (\xce\xb1, \'
+                                    \'\xce\xb2)(\\\\alpha,\\\\beta)-metrics.\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:RGFaLdJalmkC\',
+                   \'bib\': {\'citation\': \'Differential Geometry--Dynamical \'
+                                       \'Systems 21, 2019\',
+                           \'pub_year\': \'2019\',
+                           \'title\': \'A new class of Finsler-metrics and its \'
+                                    \'geometry.\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:blknAaTinKkC\',
+                   \'bib\': {\'citation\': \'International Journal of Geometry 7 \'
+                                       \'(2), 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'FROM B\xc3\x89ZIER CURVES AND T-B\xc3\x89ZIER CURVES TO \'
+                                    \'SUPERQUADRICS.\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:TFP_iSt0sucC\',
+                   \'bib\': {\'citation\': \'Advances in Applied Clifford Algebras \'
+                                       \'28 (2), 1-23, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'Almost analytic K\xc3\xa4hler forms with respect \'
+                                    \'to a quadratic endomorphism with \'
+                                    \'applications in Riemann-Finsler geometry\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:iH-uZ7U-co4C\',
+                   \'bib\': {\'citation\': \'arXiv preprint arXiv:1803.02526, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'Characterization of warped product \'
+                                    \'submanifolds of Lorentzian concircular \'
+                                    \'structure Manifolds\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:maZDTaKrznsC\',
+                   \'bib\': {\'citation\': \'Differential Geometry-Dynamical \'
+                                       \'Systems 20, 98-105, 2018\',
+                           \'pub_year\': \'2018\',
+                           \'title\': \'On a gradient Ricci soliton in the plane\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:vV6vV6tmYwMC\',
+                   \'bib\': {\'citation\': \'Balkan Journal of Geometry and Its \'
+                                       \'Applications 21 (1), 30-36, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'On the conformal change of a special \'
+                                    \'class of (\xce\xb1, \xce\xb2)-metrics\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:HDshCWvjkbEC\',
+                   \'bib\': {\'citation\': \'INTEGRATION 5 (1), 91-94, 2016\',
+                           \'pub_year\': \'2016\',
+                           \'title\': \'INTEGRATION BY DIFFERENTIATION\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:4TOpqqG69KYC\',
+                   \'bib\': {\'citation\': \'Theoretical and Computational Research \'
+                                       \'in the 21st Century, 143-170, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'CLASSICAL CHARGED PARTICLES IN ARBITRARY \'
+                                    \'MOTION\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:Wp0gIr-vW9MC\',
+                   \'bib\': {\'citation\': \'Global Journal of Advanced Research on \'
+                                       \'Classical and Modern Geometries 3 (2 \'
+                                       \'\xe2\x80\xa6, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'SPACETIMES OF CLASS ONE WITH PERFECT \'
+                                    \'FLUID\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:4DMP91E08xMC\',
+                   \'bib\': {\'citation\': \'Global Journal of Advanced Research on \'
+                                       \'Classical and Modern Geometries 3 (1 \'
+                                       \'\xe2\x80\xa6, 2014\',
+                           \'pub_year\': \'2014\',
+                           \'title\': \'ON THE CIORANESCU-(HASLAM-JONES)-LANCZOS \'
+                                    \'GENERALIZED DERIVATIVE\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:MXK_kJrjxJIC\',
+                   \'bib\': {\'citation\': \'STUDIA UNIVERSITATIS BABES-BOLYAI \'
+                                       \'MATHEMATICA 58 (4), 497-502, 2013\',
+                           \'pub_year\': \'2013\',
+                           \'title\': \'About a class of rational TC-B\xc3\xa9zier \'
+                                    \'curves with two shape parameters\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:aqlVkmm33-oC\',
+                   \'bib\': {\'citation\': \'Global Journal of Advanced Research on \'
+                                       \'Classical and Modern Geometries 2 (1 \'
+                                       \'\xe2\x80\xa6, 2013\',
+                           \'pub_year\': \'2013\',
+                           \'title\': \'K-BEZIER TYPE CURVES GENERATED BY A KING \'
+                                    \'TYPE OPERATOR\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:hqOjcs7Dif8C\',
+                   \'bib\': {\'citation\': \'MATHEMATICAL INEQUALITIES & \'
+                                       \'APPLICATIONS 15 (3), 631-637, 2012\',
+                           \'pub_year\': \'2012\',
+                           \'title\': \'ANDRICA\xe2\x80\x93IWATA\xe2\x80\x99S INEQUALITY IN HYPERBOLIC \'
+                                    \'TRIANGLE\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:W7OEmFMy1HYC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'pub_year\': \'2012\',
+                           \'title\': \'INEQUALITIES WITH GUDERMANNIANS IN \'
+                                    \'HYPERBOLIC TRIANGLE\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:YsMSGLbcyi4C\',
+                   \'bib\': {\'citation\': \'Carpathian Journal of Mathematics, \'
+                                       \'9-15, 2012\',
+                           \'pub_year\': \'2012\',
+                           \'title\': \'Some hyperbolic concurrency results in \'
+                                    \'the Poincar\xc3\xa9 disc\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:LkGwnXOMwfcC\',
+                   \'bib\': {\'citation\': \'Acta Universitatis Apulensis, 57-60, \'
+                                       \'2011\',
+                           \'pub_year\': \'2011\',
+                           \'title\': \'SOME REMARKS ON NONCOMMUTATIVE DIRAC \'
+                                    \'EQUATION\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:zYLM7Y9cAGgC\',
+                   \'bib\': {\'citation\': \'International Mathematical Forum 5 \'
+                                       \'(66), 3255-3258, 2010\',
+                           \'pub_year\': \'2010\',
+                           \'title\': \'The Hyperbolic Nobbs Theorem in the \'
+                                    \'Poincar\xc3\xa9 Disc Model of Hyperbolic \'
+                                    \'Geometry\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:Zph67rFs4hoC\',
+                   \'bib\': {\'citation\': \'Presa Universitar\xc4\x83 Clujean\xc4\x83, 2006\',
+                           \'pub_year\': \'2006\',
+                           \'title\': \'Geometrie Finsler \xc5\x9fi geometrie \'
+                                    \'diferen\xc5\xa3iala necomutativ\xc4\x83 cu aplica\xc5\xa3ii\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:3fE2CSJIrl8C\',
+                   \'bib\': {\'citation\': \'Acta Universitatis Apulensis. \'
+                                       \'Mathematics-Informatics 7, 191-198, \'
+                                       \'2004\',
+                           \'pub_year\': \'2004\',
+                           \'title\': \'NONCOMMUTATIVE GEOMETRY AND THE \'
+                                    \'DIFRACTION ONE DIMENSIONAL NETWORK\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:mB3voiENLucC\',
+                   \'bib\': {\'citation\': \'Buletinul \xc8\x99tiin\xc8\x9bific al Universitatii \'
+                                       \'Baia Mare, Seria B, Fascicola \xe2\x80\xa6, 2001\',
+                           \'pub_year\': \'2001\',
+                           \'title\': \'SOME NONCOMMUTATIVE DIFFERENTIAL FORMS\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:35N4QoGY0k4C\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'A STUDY OF A FINSLER METRIC ARISING FROM \'
+                                    \'LAPLACE TRANSFORM\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:RYcK_YlVTxYC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'Journal of Mathematical Inequalities\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:R3hNpaxXUhUC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'INTERPOLATION PARABOLAS AND QUADRATIC \'
+                                    \'BEZIER CURVES\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:TQgYirikUcIC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'ROTATING BLACK HOLE AND A POTENTIAL FOR \'
+                                    \'ITS WEYL TENSOR\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:YOwf2qJgpHMC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'THE NONCOMMUTATIVE DIRAC EQUATION FOR \'
+                                    \'SOME WAVE FUNCTIONS\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:Se3iqnhoufwC\',
+                   \'bib\': {\'citation\': \'\', \'title\': \'Barbosu D.(coordonator)\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:WF5omc3nYNoC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'B\xc3\xa9zier type curves generated by some \'
+                                    \'class of positive linear operators\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'},
+                  {\'author_pub_id\': \'HUnJHbcAAAAJ:eQOLeE2rZwMC\',
+                   \'bib\': {\'citation\': \'\',
+                           \'title\': \'G\xc3\xbclicher\xe2\x80\x99theorem in the Poincar\xc3\xa9 disc \'
+                                    \'model of Hyperbolic Geometry\'},
+                   \'filled\': False,
+                   \'num_citations\': 0,
+                   \'source\': \'AUTHOR_PUBLICATION_ENTRY\'}],
+ \'scholar_id\': \'HUnJHbcAAAAJ\',
+ \'source\': \'SEARCH_AUTHOR_SNIPPETS\',
+ \'url_picture\': \'https://scholar.google.com/citations?view_op=medium_photo&user=HUnJHbcAAAAJ\'
